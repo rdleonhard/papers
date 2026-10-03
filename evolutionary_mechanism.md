@@ -2,7 +2,7 @@
 
 ## A testable hypothesis of prokaryotic genome engineering and the Cambrian radiation
 
-Oct 3, 2026 · @Rob
+Oct 3, 2026 · Robert Donald Leonhard
 
 ## Abstract
 
